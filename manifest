@@ -3,7 +3,7 @@
     "lang": "Portuguese",
     "name": "David Max   WebDev",
     "scope": "/",
-    "display": "browser",
+    "display": "minimal-ui",
     "start_url": "https://davidmaxdmao.github.io/",
     "short_name": "MaxDevWeb",
     "theme_color": "transparent",
